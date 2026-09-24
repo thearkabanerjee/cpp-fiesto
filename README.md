@@ -1,0 +1,1 @@
+just a repo where i am trying to learn cpp from start to the end, mostly
