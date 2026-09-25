@@ -8,7 +8,7 @@ int main(){
   
   cout << a/ b << endl; // this is the normal integer division
   cout <<(float) a / b << endl; // this is the type changed version
-  
+  cout << float(a/b) << endl; 
 
   return 0;
 }
