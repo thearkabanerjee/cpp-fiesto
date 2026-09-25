@@ -12,3 +12,6 @@ int main(){
 
   return 0;
 }
+
+
+// constants are for the variables that would never be changed
