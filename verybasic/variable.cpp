@@ -10,5 +10,23 @@ int main(){
 
     cout << sum << endl;
 
+    //double 
+    double price = 12.99;
+    double gpa = 6.05;
+
+
+    cout << price << endl;
+    cout << gpa << endl;
+
+
+    // single char
+    char grade = 'A';
+    char intial = 'B';
+    
+    // string 
+    string name = "Arka";
+    cout << name << endl;
+
+
     return 0;
 }
